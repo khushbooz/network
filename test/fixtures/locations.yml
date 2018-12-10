@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  as_public: MyString
+  boolean: MyString
+
+two:
+  as_public: MyString
+  boolean: MyString
